@@ -1,3 +1,6 @@
+# Tien Duc - Data Analyst Portfolio
+## About
+
 👋 Hello, I'm Tien Duc
 
 Welcome to my Portfolio's GitHub! I'm a data enthusiast with a strong foundation in Excel, SQL, and data visualization using Tableau and Power BI. I am passionate about uncovering insights and telling stories through data, leveraging these tools to make informed, data-driven decisions.

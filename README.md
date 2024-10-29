@@ -17,3 +17,5 @@ I'm currently focused on expanding my technical skills with Python, and statisti
   - [SQL] (link)
   - [Visualisation] (link) 
   - [Python] (link)
+### Excel - Cleaning, Analysis, Visualisation
+#### Excel - Cleaning, Analysis, Visualisation

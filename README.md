@@ -10,7 +10,7 @@ I'm currently focused on expanding my technical skills with Python, and statisti
 
 - [About](https://github.com/tienductienduc/PortfolioProjects/edit/main/README.md#about)
 - [Portfolio Projects](https://github.com/tienductienduc/PortfolioProjects/edit/main/README.md#portfolio-projects)
-  - [Excel] (https://translate.google.com/?sl=en&tl=vi&text=repository&op=translate)
+  - [Excel](https://translate.google.com/?sl=en&tl=vi&text=repository&op=translate)
   - [SQL] (link)
   - [Visualisation] (link) 
   - [Python] (link)

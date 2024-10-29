@@ -11,8 +11,8 @@ Data Analysis: From cleaning and organizing datasets in Excel to building dynami
 
 I'm currently focused on expanding my technical skills with Python, and statistics skills while exploring opportunities in the data analysis. Feel free to explore my projects, where I've combined these skills to create impactful data solutions!
 
-- [About](https://github.com/tienductienduc/PortfolioProjects/edit/main/README.md#about)
-- [Portfolio Projects](https://github.com/tienductienduc/PortfolioProjects/edit/main/README.md#portfolio-projects)
+- [About](https://github.com/tienductienduc/PortfolioProjects/main/README.md#about)
+- [Portfolio Projects](https://github.com/tienductienduc/PortfolioProjects/main/README.md#portfolio-projects)
   - [Excel](https://translate.google.com/?sl=en&tl=vi&text=repository&op=translate)
   - [SQL] (link)
   - [Visualisation] (link) 

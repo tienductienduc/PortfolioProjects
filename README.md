@@ -1,4 +1,4 @@
-# Tien Duc - Data Analyst Portfolio
+# 👋 Tien Duc - Data Analyst Portfolio
 ## About
 Hi, I'm Tien Duc! I'm a data enthusiast with a strong foundation in Excel, SQL, and data visualization using Tableau and Power BI. I am passionate about uncovering insights and telling stories through data, leveraging these tools to make informed, data-driven decisions. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
 
@@ -32,15 +32,15 @@ In this section, I will showcase data analytics projects, and solve real-world c
 #### Customer Feedback
 **Direct:** Customer Feedback
 
-**Goal:** To determine what factors contribute the most to a movie's success.
+- **Goal:** To determine what factors contribute the most to a movie's success.
 
-**Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+- **Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+- **Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+- **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 
-**Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
+- **Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
 
 ----------------------------------
 #### Sales Dashboard
@@ -113,7 +113,41 @@ In this section, I will showcase data analytics projects, and solve real-world c
 
 **Skills:** data cleaning, data analysis, data visualization.
 
-**Technology:** MySQL 
+**Technology:** MySQL
+
+
+
+### Visualisation - Power BI & Tableau
+
+----------------------------------
+#### Power BI
+**Code:** [Plant Company Performance](https://github.com/tienductienduc/PortfolioProjects/tree/main/POWER%20BI%20%26%20TABLEAU/POWER%20BI)
+
+**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+
+**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+**Technology:** Power BI
+
+----------------------------------
+#### Tableau
+**Code:** [World Covid](https://github.com/tienductienduc/PortfolioProjects/tree/main/POWER%20BI%20%26%20TABLEAU/TABLEAU/SQL%20%2B%20TABLEAU)
+
+**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+
+**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+**Technology:** SQL Server & Tableau
+
+----------------------------------
+**Code:** [Sales Dashboard Visualisation](https://github.com/tienductienduc/PortfolioProjects/tree/main/POWER%20BI%20%26%20TABLEAU/TABLEAU)
+
+**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+
+**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+**Technology:** SQL Server
+
 
 
 ----------------------------------
@@ -121,7 +155,7 @@ In this section, I will showcase data analytics projects, and solve real-world c
 Here's a list of the certificates I have:
 - Useful Excel for Beginners (Aug 2024) (Udemy)
 - SQL for Data Analysis (Aug 2024) (Udacity)
-- Power BI for Beginners (Aug 2024) (Simplelearn)
+- [Power BI for Beginners](https://simpli-web.app.link/e/sPJYrJPGDMb) (Aug 2024) (Simplelearn)
 
 ----------------------------------
 ## Contacts

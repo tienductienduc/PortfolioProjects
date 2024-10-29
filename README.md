@@ -17,12 +17,12 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 - [About](https://github.com/tienductienduc/PortfolioProjects/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/tienductienduc/PortfolioProjects/blob/main/README.md#portfolio-projects)
-  - Excel
-  - SQL
-  - Visualisation
-  - Python
-- [Certificates](https://github.com/tienductienduc/PortfolioProjects/blob/main/README.md#certificates)
-- [Contact](https://github.com/tienductienduc/PortfolioProjects/blob/main/README.md#contacts)
+  - [Excel](https://github.com/tienductienduc/PortfolioProjects/tree/main?tab=readme-ov-file#excel---cleaning-analysis-visualisation)
+  - [SQL](https://github.com/tienductienduc/PortfolioProjects/tree/main?tab=readme-ov-file#sql---sql-server--mysql)
+  - [Visualisation](url)
+  - [Python](url)
+- [Certificates](https://github.com/tienductienduc/PortfolioProjects/tree/main?tab=readme-ov-file#certificates)
+- [Contact](https://github.com/tienductienduc/PortfolioProjects/tree/main?tab=readme-ov-file#certificates)
 ## Portfolio Projects
 In this section, I will showcase data analytics projects, and solve real-world cases.
 

@@ -30,7 +30,7 @@ In this section, I will showcase data analytics projects, and solve real-world c
 
 ----------------------------------
 #### Customer Feedback
-**Direct:** [Customer Feedback](https://github.com/tienductienduc/PortfolioProjects/tree/main/EXCEL)
+**Direct:** [Customer Feedback](https://github.com/tienductienduc/PortfolioProjects/tree/main/EXCEL/_blank)
 
 - **Goal:** To determine what factors contribute the most to a movie's success.
 

@@ -1,1 +1,1 @@
-Those are my Python Work
+I have a basic understanding of Python, allowing me to perform fundamental tasks such as data manipulation, simple automation, and basic data visualization. I am gettine familiar with libraries like Numpy, Pandas and Matplotlib, and I'm eager to deepen my knowledge and skills in Python for data analysis and automation tasks.

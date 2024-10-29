@@ -15,8 +15,8 @@ My CV in [pdf](link).
 This is a repository to showcase skills, share projects and track my progress in Data related topics.
 
 ## Table of Contents
-- [About](https://github.com/tienductienduc/PortfolioProjects/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/tienductienduc/PortfolioProjects/blob/main/README.md#portfolio-projects)
+- [About](https://github.com/tienductienduc/PortfolioProjects/tree/main?tab=readme-ov-file#about)
+- [Portfolio Projects](https://github.com/tienductienduc/PortfolioProjects/tree/main?tab=readme-ov-file#portfolio-projects)
   - [Excel](https://github.com/tienductienduc/PortfolioProjects/tree/main?tab=readme-ov-file#excel---cleaning-analysis-visualisation)
   - [SQL](https://github.com/tienductienduc/PortfolioProjects/tree/main?tab=readme-ov-file#sql---sql-server--mysql)
   - [Visualisation](url)
@@ -27,6 +27,8 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section, I will showcase data analytics projects, and solve real-world cases.
 
 ### Excel - Cleaning, Analysis, Visualisation
+
+----------------------------------
 #### Customer Feedback
 **Direct:** Customer Feedback
 
@@ -40,6 +42,7 @@ In this section, I will showcase data analytics projects, and solve real-world c
 
 **Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
 
+----------------------------------
 #### Sales Dashboard
 **Direct:** Sales Dashboard
 
@@ -53,6 +56,7 @@ In this section, I will showcase data analytics projects, and solve real-world c
 
 **Results:** Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
 
+----------------------------------
 #### SuperMarket Sales
 **Code:** SuperMarket Sales
 
@@ -62,7 +66,10 @@ In this section, I will showcase data analytics projects, and solve real-world c
 
 **Technology:** SQL Server
 
+----------------------------------
 ### SQL - SQL Server & MySQL
+
+----------------------------------
 #### SQL Server
 **Code:** Covid Project
 
@@ -72,6 +79,7 @@ In this section, I will showcase data analytics projects, and solve real-world c
 
 **Technology:** SQL Server
 
+----------------------------------
 **Code:** World Layoffs Project
 
 **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
@@ -80,6 +88,7 @@ In this section, I will showcase data analytics projects, and solve real-world c
 
 **Technology:** SQL Server
 
+----------------------------------
 **Code:** Nashville Housing Project
 
 **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
@@ -89,7 +98,10 @@ In this section, I will showcase data analytics projects, and solve real-world c
 **Technology:** SQL Server
 
 
+----------------------------------
 #### SQL MySQL
+
+----------------------------------
 **Code:** World Layoffs Project
 
 **Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
@@ -101,12 +113,13 @@ In this section, I will showcase data analytics projects, and solve real-world c
 **Technology:** MySQL 
 
 
-
+----------------------------------
 ## Certificates
 Here's a list of the certificates I have:
 - Useful Excel for Beginners (Aug 2024) (Udemy)
 - SQL for Data Analysis (Aug 2024) (Udacity)
 - Power BI for Beginners (Aug 2024) (Simplelearn)
 
+----------------------------------
 ## Contacts
 - Email: nguyentienduc3003@gmail.com

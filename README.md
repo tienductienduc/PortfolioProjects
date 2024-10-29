@@ -19,8 +19,8 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](https://github.com/tienductienduc/PortfolioProjects/tree/main?tab=readme-ov-file#portfolio-projects)
   - [Excel](https://github.com/tienductienduc/PortfolioProjects/tree/main?tab=readme-ov-file#excel---cleaning-analysis-visualisation)
   - [SQL](https://github.com/tienductienduc/PortfolioProjects/tree/main?tab=readme-ov-file#sql---sql-server--mysql)
-  - [Visualisation](url)
-  - [Python](url)
+  - [Visualisation](https://github.com/tienductienduc/PortfolioProjects/tree/main?tab=readme-ov-file#visualisation---power-bi--tableau)
+  - [Python](https://github.com/tienductienduc/PortfolioProjects/tree/main?tab=readme-ov-file#python)
 - [Certificates](https://github.com/tienductienduc/PortfolioProjects/tree/main?tab=readme-ov-file#certificates)
 - [Contact](https://github.com/tienductienduc/PortfolioProjects/tree/main?tab=readme-ov-file#certificates)
 ## Portfolio Projects

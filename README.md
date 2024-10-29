@@ -28,7 +28,7 @@ In this section, I will showcase data analytics projects, and solve real-world c
 
 ### Excel - Cleaning, Analysis, Visualisation
 
-----
+----------------------------------
 #### Customer Feedback
 **Direct:** Customer Feedback
 
@@ -66,7 +66,9 @@ In this section, I will showcase data analytics projects, and solve real-world c
 
 **Technology:** SQL Server
 
-----------------------------------
+
+
+
 ### SQL - SQL Server & MySQL
 
 ----------------------------------
@@ -98,7 +100,8 @@ In this section, I will showcase data analytics projects, and solve real-world c
 **Technology:** SQL Server
 
 
-----------------------------------
+
+
 #### SQL MySQL
 
 ----------------------------------

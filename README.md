@@ -58,7 +58,7 @@ In this section, I will showcase data analytics projects, and solve real-world c
 
 ----------------------------------
 #### SuperMarket Sales
-**Code:** [SuperMarket Sales](https://github.com/tienductienduc/PortfolioProjects/tree/main/EXCEL)
+**Direct:** [SuperMarket Sales](https://github.com/tienductienduc/PortfolioProjects/tree/main/EXCEL)
 
 - **Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
 
@@ -73,7 +73,7 @@ In this section, I will showcase data analytics projects, and solve real-world c
 
 ----------------------------------
 #### [SQL Server](https://github.com/tienductienduc/PortfolioProjects/tree/main/SQL/SQL%20SERVER)
-**Code:** [Covid Project](https://github.com/tienductienduc/PortfolioProjects/tree/main/SQL/SQL%20SERVER/Covid)
+**Direct:** [Covid Project](https://github.com/tienductienduc/PortfolioProjects/tree/main/SQL/SQL%20SERVER/Covid)
 
 - **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
@@ -82,7 +82,7 @@ In this section, I will showcase data analytics projects, and solve real-world c
 - **Technology:** SQL Server
 
 ----------------------------------
-**Code:** [World Layoffs Project](https://github.com/tienductienduc/PortfolioProjects/tree/main/SQL/SQL%20SERVER/Layoffs)
+**Direct:** [World Layoffs Project](https://github.com/tienductienduc/PortfolioProjects/tree/main/SQL/SQL%20SERVER/Layoffs)
 
 - **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
@@ -91,7 +91,7 @@ In this section, I will showcase data analytics projects, and solve real-world c
 - **Technology:** SQL Server
 
 ----------------------------------
-**Code:** [Nashville Housing Project](https://github.com/tienductienduc/PortfolioProjects/tree/main/SQL/SQL%20SERVER/Nashville%20Housing)
+**Direct:** [Nashville Housing Project](https://github.com/tienductienduc/PortfolioProjects/tree/main/SQL/SQL%20SERVER/Nashville%20Housing)
 
 - **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
@@ -105,7 +105,7 @@ In this section, I will showcase data analytics projects, and solve real-world c
 #### SQL MySQL
 
 ----------------------------------
-**Code:** [World Layoffs Project](https://github.com/tienductienduc/PortfolioProjects/tree/main/SQL/MYSQL)
+**Direct:** [World Layoffs Project](https://github.com/tienductienduc/PortfolioProjects/tree/main/SQL/MYSQL)
 
 - **Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
 
@@ -121,7 +121,7 @@ In this section, I will showcase data analytics projects, and solve real-world c
 
 ----------------------------------
 #### Power BI
-**Code:** [Plant Company Performance](https://github.com/tienductienduc/PortfolioProjects/tree/main/POWER%20BI%20%26%20TABLEAU/POWER%20BI)
+**Direct:** [Plant Company Performance](https://github.com/tienductienduc/PortfolioProjects/tree/main/POWER%20BI%20%26%20TABLEAU/POWER%20BI)
 
 - **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
@@ -131,7 +131,7 @@ In this section, I will showcase data analytics projects, and solve real-world c
 
 ----------------------------------
 #### Tableau
-**Code:** [World Covid](https://github.com/tienductienduc/PortfolioProjects/tree/main/POWER%20BI%20%26%20TABLEAU/TABLEAU/SQL%20%2B%20TABLEAU)
+**Direct:** [World Covid](https://github.com/tienductienduc/PortfolioProjects/tree/main/POWER%20BI%20%26%20TABLEAU/TABLEAU/SQL%20%2B%20TABLEAU)
 
 - **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
@@ -140,7 +140,7 @@ In this section, I will showcase data analytics projects, and solve real-world c
 - **Technology:** SQL Server & Tableau
 
 ----------------------------------
-**Code:** [Sales Dashboard Visualisation](https://github.com/tienductienduc/PortfolioProjects/tree/main/POWER%20BI%20%26%20TABLEAU/TABLEAU)
+**Direct:** [Sales Dashboard Visualisation](https://github.com/tienductienduc/PortfolioProjects/tree/main/POWER%20BI%20%26%20TABLEAU/TABLEAU)
 
 - **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
@@ -155,7 +155,7 @@ In this section, I will showcase data analytics projects, and solve real-world c
 
 ----------------------------------
 #### Movie Industries
-**Code:** [Movie Industries](https://github.com/tienductienduc/PortfolioProjects/tree/main/PYTHON)
+**Direct:** [Movie Industries](https://github.com/tienductienduc/PortfolioProjects/tree/main/PYTHON)
 
 - **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 

@@ -30,7 +30,7 @@ In this section, I will showcase data analytics projects, and solve real-world c
 
 ----------------------------------
 #### Customer Feedback
-**Direct:** Customer Feedback
+**Direct:** [Customer Feedback](https://github.com/tienductienduc/PortfolioProjects/tree/main/EXCEL)
 
 - **Goal:** To determine what factors contribute the most to a movie's success.
 
@@ -44,27 +44,27 @@ In this section, I will showcase data analytics projects, and solve real-world c
 
 ----------------------------------
 #### Sales Dashboard
-**Direct:** Sales Dashboard
+**Direct:** [Sales Dashboard](https://github.com/tienductienduc/PortfolioProjects/tree/main/EXCEL)
 
-**Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
+- **Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
 
-**Description:** The dataset contains a list of sales records.  The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
+- **Description:** The dataset contains a list of sales records.  The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
 
-**Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
+- **Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
 
-**Technology:** Python, Pandas, Matplotlib.
+- **Technology:** Python, Pandas, Matplotlib.
 
-**Results:** Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
+- **Results:** Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
 
 ----------------------------------
 #### SuperMarket Sales
-**Code:** SuperMarket Sales
+**Code:** [SuperMarket Sales](https://github.com/tienductienduc/PortfolioProjects/tree/main/EXCEL)
 
-**Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
+- **Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
 
-**Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
+- **Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
 
-**Technology:** SQL Server
+- **Technology:** SQL Server
 
 
 
@@ -72,32 +72,32 @@ In this section, I will showcase data analytics projects, and solve real-world c
 ### SQL - SQL Server & MySQL
 
 ----------------------------------
-#### SQL Server
-**Code:** Covid Project
+#### [SQL Server](https://github.com/tienductienduc/PortfolioProjects/tree/main/SQL/SQL%20SERVER)
+**Code:** [Covid Project](https://github.com/tienductienduc/PortfolioProjects/tree/main/SQL/SQL%20SERVER/Covid)
 
-**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+- **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
-**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+- **Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
-**Technology:** SQL Server
-
-----------------------------------
-**Code:** World Layoffs Project
-
-**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
-
-**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
-
-**Technology:** SQL Server
+- **Technology:** SQL Server
 
 ----------------------------------
-**Code:** Nashville Housing Project
+**Code:** [World Layoffs Project](https://github.com/tienductienduc/PortfolioProjects/tree/main/SQL/SQL%20SERVER/Layoffs)
 
-**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+- **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
-**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+- **Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
-**Technology:** SQL Server
+- **Technology:** SQL Server
+
+----------------------------------
+**Code:** [Nashville Housing Project](https://github.com/tienductienduc/PortfolioProjects/tree/main/SQL/SQL%20SERVER/Nashville%20Housing)
+
+- **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+
+- **Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+- **Technology:** SQL Server
 
 
 
@@ -105,15 +105,15 @@ In this section, I will showcase data analytics projects, and solve real-world c
 #### SQL MySQL
 
 ----------------------------------
-**Code:** World Layoffs Project
+**Code:** [World Layoffs Project](https://github.com/tienductienduc/PortfolioProjects/tree/main/SQL/MYSQL)
 
-**Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
+- **Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
 
-**Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
+- **Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
 
-**Skills:** data cleaning, data analysis, data visualization.
+- **Skills:** data cleaning, data analysis, data visualization.
 
-**Technology:** MySQL
+- **Technology:** MySQL
 
 
 
@@ -123,30 +123,45 @@ In this section, I will showcase data analytics projects, and solve real-world c
 #### Power BI
 **Code:** [Plant Company Performance](https://github.com/tienductienduc/PortfolioProjects/tree/main/POWER%20BI%20%26%20TABLEAU/POWER%20BI)
 
-**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+- **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
-**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+- **Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
-**Technology:** Power BI
+- **Technology:** Power BI
 
 ----------------------------------
 #### Tableau
 **Code:** [World Covid](https://github.com/tienductienduc/PortfolioProjects/tree/main/POWER%20BI%20%26%20TABLEAU/TABLEAU/SQL%20%2B%20TABLEAU)
 
-**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+- **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
-**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+- **Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
-**Technology:** SQL Server & Tableau
+- **Technology:** SQL Server & Tableau
 
 ----------------------------------
 **Code:** [Sales Dashboard Visualisation](https://github.com/tienductienduc/PortfolioProjects/tree/main/POWER%20BI%20%26%20TABLEAU/TABLEAU)
 
-**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+- **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
-**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+- **Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
-**Technology:** SQL Server
+- **Technology:** SQL Server
+
+
+
+
+### Python
+
+----------------------------------
+#### Movie Industries
+**Code:** [Movie Industries](https://github.com/tienductienduc/PortfolioProjects/tree/main/PYTHON)
+
+- **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+
+- **Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+- **Technology:** Python
 
 
 

@@ -21,7 +21,6 @@ This is a repository to showcase skills, share projects and track my progress in
   - SQL
   - Visualisation
   - Python
-- [Education](https://github.com/tienductienduc/PortfolioProjects/blob/main/README.md#education)  
 - [Certificates](https://github.com/tienductienduc/PortfolioProjects/blob/main/README.md#certificates)
 - [Contact](https://github.com/tienductienduc/PortfolioProjects/blob/main/README.md#contacts)
 ## Portfolio Projects

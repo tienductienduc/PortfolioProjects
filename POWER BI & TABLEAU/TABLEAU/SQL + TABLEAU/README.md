@@ -1,1 +1,3 @@
+I bring a strong proficiency in data visualization, using Power BI and Tableau to transform complex datasets into insightful, interactive dashboards. My approach focuses on creating user-friendly visuals that make data trends and KPIs accessible, helping stakeholders make informed, data-driven decisions. I have experience designing dashboards that track key metrics, identify trends over time, and allow for drill-down analysis by region, product, or customer segment. Through these tools, I aim to provide clear, actionable insights that drive strategic outcomes for business objectives.
+
 Link to my original data file: [Google Drive](https://drive.google.com/drive/folders/12vyS2CRVAbcZzny7ftQcdR375AxQGNRl?usp=sharing)

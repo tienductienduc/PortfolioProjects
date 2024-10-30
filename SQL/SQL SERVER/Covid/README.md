@@ -4,7 +4,7 @@ Link to my original Covid data file: [Google Drive](https://drive.google.com/dri
 
 ------
 
-**Direct:** Covid Project
+**Direct: Covid Project**
 
 - **Goal:** To analyze global COVID-19 trends from 2019 to 2024 by examining cases, deaths, and vaccination data across countries and continents. This project aims to provide insights into the pandemic's impact over time, geographic hotspots, and vaccination progress.
 

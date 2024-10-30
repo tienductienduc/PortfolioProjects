@@ -2,7 +2,7 @@ I bring a strong proficiency in data visualization, using Power BI and Tableau t
 
 Check out my visualisation here: [Data Visualisation](https://www.canva.com/design/DAGU9SKM380/YQnieZEftTr4ofXxy0HJMg/edit?utm_content=DAGU9SKM380&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-Check out my visualisation with Tableau here: [Tableau Visualisation](https://public.tableau.com/app/profile/tien.duc.nguyen/vizzes)
+Check out my interactive visualisation with Tableau here: [Tableau Visualisation](https://public.tableau.com/app/profile/tien.duc.nguyen/vizzes)
 
 ----------------------------------
 #### Tableau

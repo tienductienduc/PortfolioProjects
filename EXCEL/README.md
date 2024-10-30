@@ -4,7 +4,7 @@ Take a quick look at my visualisation with Excel here: [Data Visualisation](http
 
 ----------------------------------
 #### Customer Feedback
-**Direct:** [Customer Feedback](https://github.com/tienductienduc/PortfolioProjects/tree/main/EXCEL/)
+**Direct:** [Customer Feedback](https://github.com/tienductienduc/PortfolioProjects/tree/main/EXCEL)
 
 - **Goal:** To analyze customer feedback trends over time, including demographics such as gender and age, how guests discovered the hotel, their purpose for booking, and their service rating distribution.
 
@@ -18,7 +18,7 @@ Take a quick look at my visualisation with Excel here: [Data Visualisation](http
 
 ----------------------------------
 #### Sales Dashboard
-**Direct:** [Sales Performance Dashboard](https://github.com/tienductienduc/PortfolioProjects/tree/main/EXCEL)
+**Direct:** [Sales Performance Dashboard]([https://github.com/tienductienduc/PortfolioProjects/tree/main/EXCEL)
 
 - **Goal:** To analyze client revenues by tracking revenue over time, identifying top customers, and examining preferred payment methods and client locations.
 

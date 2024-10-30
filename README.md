@@ -15,7 +15,7 @@ My CV in [pdf](link).
 This is a repository to showcase skills, share projects and track my progress in Data related topics.
 
 ## Table of Contents
-- [About](https://github.com/tienductienduc/PortfolioProjects/tree/main?tab=readme-ov-file#about)
+- [About](https://github.com/tienductienduc/PortfolioProjects?tab=readme-ov-file#about)
 - [Portfolio Projects](https://github.com/tienductienduc/PortfolioProjects/tree/main?tab=readme-ov-file#portfolio-projects)
   - [Excel](https://github.com/tienductienduc/PortfolioProjects/tree/main?tab=readme-ov-file#excel---cleaning-analysis-visualisation)
   - [SQL](https://github.com/tienductienduc/PortfolioProjects/tree/main?tab=readme-ov-file#sql---sql-server--mysql)

@@ -1,7 +1,8 @@
 I have a foundational understanding of SQL, enabling me to write queries for data extraction and basic manipulation. While I’m still expanding my skills, I can perform tasks such as writing some complex queries to join tables, filter datasets, and perform aggregations, allowing me to derive actionable insights from medium, to large datasets. I'm eager to enhance my SQL expertise further to support data-driven decision-making.
 
-----------------------------------
 #### SQL Server
+----------------------------------
+
 **Direct:** [Covid Project](https://github.com/tienductienduc/PortfolioProjects/tree/main/SQL/SQL%20SERVER/Covid)
 
 - **Goal:** To analyze global COVID-19 trends from 2019 to 2024 by examining cases, deaths, and vaccination data across countries and continents. This project aims to provide insights into the pandemic's impact over time, geographic hotspots, and vaccination progress.

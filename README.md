@@ -32,39 +32,43 @@ In this section, I will showcase data analytics projects, and solve real-world c
 #### Customer Feedback
 **Direct:** [Customer Feedback](https://github.com/tienductienduc/PortfolioProjects/tree/main/EXCEL/)
 
-- **Goal:** To determine what factors contribute the most to a movie's success.
+- **Goal:** To analyze customer feedback trends over time, including demographics such as gender and age, how guests discovered the hotel, their purpose for booking, and their service rating distribution.
 
-- **Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+- **Description:** The hotel feedback dataset includes customer ratings for each hotel service, along with customer details such as booking purpose and how they discovered the hotel. The project workflow involves data loading, cleaning, and preprocessing, followed by exploratory data analysis (EDA), feedback analysis, and visualizing the results in a dashboard.
 
-- **Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+- **Skills:** Data Cleaning, Data formatting, Data Analysis, Pivot Table, VLOOKUP, Data visualization, Interactive Dashboards, Slicers, etc.
 
-- **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+- **Technology:** Excel.
 
-- **Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
+- **Results:** A clear dashboard with insightful metrics that showcases customer personas, providing the hotel with valuable insights into areas for improvement.
 
 ----------------------------------
 #### Sales Dashboard
-**Direct:** [Sales Dashboard](https://github.com/tienductienduc/PortfolioProjects/tree/main/EXCEL)
+**Direct:** [Sales Performance Dashboard](https://github.com/tienductienduc/PortfolioProjects/tree/main/EXCEL)
 
-- **Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
+- **Goal:** To analyze client revenues by tracking revenue over time, identifying top customers, and examining preferred payment methods and client locations.
 
-- **Description:** The dataset contains a list of sales records.  The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
+- **Description:** The dataset consists of sales records, including client details (name, contact, city) and order information (order date, payment method, revenue, profit). This project involves several steps: data loading, data cleaning and preprocessing, exploratory data analysis (EDA), sales data analysis, and visualizing the findings in a dashboard.
 
-- **Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
+- **Skills:** Data Cleaning, Data formatting, Data Analysis, Pivot Table, VLOOKUP, IF, OFFSET, Data visualization, Interactive Dashboards, Slicers, etc.
 
-- **Technology:** Python, Pandas, Matplotlib.
+- **Technology:** Excel.
 
-- **Results:** Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
+- **Results:** A clear dashboard with insightful metrics showcasing total revenue, profit, clients information, and identifying top clients.
 
 ----------------------------------
 #### SuperMarket Sales
 **Direct:** [SuperMarket Sales](https://github.com/tienductienduc/PortfolioProjects/tree/main/EXCEL)
 
-- **Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
+- **Goal:** To analyze total revenue and profit metrics across time, look for top-selling products, sales types with the highest contributions, customer payment preferences, and sales performance across product categories.
 
-- **Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
+- **Description:** The dataset consists of two tables: one with product information (Product ID, name, category, buying price, selling price) and another with order details (order date, product ordered, price, quantity, sale type, payment mode, discount). The project workflow includes data loading, cleaning, and preprocessing, followed by exploratory data analysis (EDA), sales data analysis, and visualizing the results in a dashboard.
 
-- **Technology:** SQL Server
+- **Skills:** Data Cleaning, Data formatting, Conditional Formatting, Data Extraction, Data Analysis, Pivot Table, XLOOKUP, VLOOKUP, HLOOKUP, INDEX and MATCH, Data validation, Data visualization, Interactive Dashboards, Slicers, Data Protection, etc.
+
+- **Technology:** Excel.
+
+- **Results:** A clear dashboard for the supermarket featuring key metrics, including total revenue, profit, top-selling products, highest-contributing sales types, customer payment preferences, and sales performance by product category.
 
 
 
@@ -161,7 +165,7 @@ In this section, I will showcase data analytics projects, and solve real-world c
 
 - **Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
-- **Technology:** Python
+- **Technology:** Python, NumPy, Pandas, Matplotlib, Seaborn.
 
 
 

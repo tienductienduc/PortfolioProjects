@@ -14,4 +14,3 @@ I have a foundational understanding of SQL, enabling me to write queries for dat
 - **Technology:** MySQL
   
 - **Results:** Key insights reveal which countries and industries were most impacted by layoffs, peak layoff periods, and company-specific layoff rates. This analysis provides a data-driven understanding of global workforce reductions during this period, highlighting sectors and regions most affected by economic challenges.
-

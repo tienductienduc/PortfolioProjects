@@ -118,7 +118,7 @@ In this section, I will showcase data analytics projects, and solve real-world c
 
 
 
-#### SQL MySQL
+#### MySQL
 
 ----------------------------------
 **Direct:** [World Layoffs Project](https://github.com/tienductienduc/PortfolioProjects/tree/main/SQL/MYSQL)

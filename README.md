@@ -141,30 +141,42 @@ In this section, I will showcase data analytics projects, and solve real-world c
 #### Power BI
 **Direct:** [Plant Company Performance](https://github.com/tienductienduc/PortfolioProjects/tree/main/POWER%20BI%20%26%20TABLEAU/POWER%20BI)
 
-- **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+- **Goal:** To assess sales performance by analyzing revenue and profit, comparing these metrics to the same period last year.
 
-- **Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+- **Description:** In this project, I focused on data visualization in Power BI, utilizing DAX to create new measures and format the data effectively. The aim is to provide a clear representation of sales performance over time, to identify trends and make informed decisions based on historical comparisons.
 
-- **Technology:** Power BI
+- **Skills:** Power Query, Data Formatting, DAX, Visualisation
+
+- **Technology:** Power BI.
+
+- **Results:** Key findings include revenue and profit, comparing these metrics to the same period last year.
 
 ----------------------------------
 #### Tableau
 **Direct:** [World Covid](https://github.com/tienductienduc/PortfolioProjects/tree/main/POWER%20BI%20%26%20TABLEAU/TABLEAU/SQL%20%2B%20TABLEAU)
 
-- **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+- **Goal:** To analyze global COVID-19 trends from 2019 to 2024 by examining cases, deaths, and vaccination data across countries and continents. This project aims to provide insights into the pandemic's impact over time, geographic hotspots, and vaccination progress.
 
-- **Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+- **Description:** The dataset—which contains cases, deaths, vaccination rates, population, and regional information—to analyze infection and mortality trends, vaccination coverage, and population impact. Using SQL Server to data processing: data loading, data cleaning and preprocessing, exploratory data analysis (EDA); and visualise data in Tableau.
 
-- **Technology:** SQL Server & Tableau
+- **Skills:** Visualisation.
+
+- **Technology:** Tableau.
+
+- **Results:** Key findings include identifying countries and continents with the highest infection and mortality rates, understanding the timeline of infection surges, and assessing vaccination coverage by region.
 
 ----------------------------------
 **Direct:** [Sales Dashboard Visualisation](https://github.com/tienductienduc/PortfolioProjects/tree/main/POWER%20BI%20%26%20TABLEAU/TABLEAU)
 
-- **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+- **Goal:** Visualise identifying top-selling products, understanding which sales types contribute most, assessing customer payment preferences, and evaluating sales performance across various product categories.
 
-- **Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+- **Description:** The dataset consists of two tables: one with product information (Product ID, name, category, buying price, selling price) and another with order details (order date, product ordered, price, quantity, sale type, payment mode, discount). Visualise data with Tableau.
 
-- **Technology:** SQL Server
+- **Skills:** Visualisation.
+
+- **Technology:** Tableau.
+
+- **Results:** Key findings include top-selling products, understanding which sales types contribute most, assessing customer payment preferences, and evaluating sales performance across various product categories.
 
 
 
@@ -175,12 +187,15 @@ In this section, I will showcase data analytics projects, and solve real-world c
 #### Movie Industries
 **Direct:** [Movie Industries](https://github.com/tienductienduc/PortfolioProjects/tree/main/PYTHON)
 
-- **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+- **Goal:** To analyze a comprehensive dataset of movies from around the world, focusing on key characteristics such as ratings, box office performance, and profitability.
 
-- **Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+- **Description:** In this project, I utilized Python to process a dataset containing various movie details. The analysis involved formatting the data, removing null and blank values, and filtering for target values. I created regression plots to explore correlations between different characteristics and generated charts to visualize the top movies of all time based on gross and profit.
 
-- **Technology:** Python, NumPy, Pandas, Matplotlib, Seaborn.
+- **Skills:** NumPy, Pandas, Matplotlib, Seaborn, data cleaning, data types converting
 
+- **Technology:** Python.
+
+- **Results:** The analysis will provide insights into the factors contributing to a movie's success, revealing patterns in ratings, profitability, and audience engagement. The visualizations created will help identify the highest-grossing films and support data-driven discussions about trends in the film industry.
 
 
 ----------------------------------

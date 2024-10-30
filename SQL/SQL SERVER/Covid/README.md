@@ -2,6 +2,8 @@ I have a foundational understanding of SQL, enabling me to write queries for dat
 
 Link to my original Covid data file: [Google Drive](https://drive.google.com/drive/folders/12vyS2CRVAbcZzny7ftQcdR375AxQGNRl?usp=sharing)
 
+My visualisation with Tableau for Covid dataset here: [Covid Visualisation](https://github.com/tienductienduc/PortfolioProjects/tree/main/POWER%20BI%20%26%20TABLEAU/TABLEAU/SQL%20%2B%20TABLEAU)
+
 ------
 
 **Direct: Covid Project**

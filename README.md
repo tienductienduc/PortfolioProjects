@@ -10,7 +10,7 @@ My skills includes projects in:
 
 I'm currently focused on expanding my technical skills with Python, and statistics skills while exploring opportunities in the data analysis. Feel free to explore my projects, where I've combined these skills to create impactful data solutions!
 
-My CV in [pdf](link).
+My CV in [pdf](https://github.com/tienductienduc/PortfolioProjects/blob/main/CV%20-%20Data%20Analyst%20-%20Fresher%20-%20Nguyen%20Tien%20Duc%20(BY).pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data related topics.
 
